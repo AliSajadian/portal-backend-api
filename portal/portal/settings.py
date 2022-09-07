@@ -103,8 +103,8 @@ DATABASES = {
         'default': {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'dbportal',
-        'USER': 'dbportal_admin',
-        'PASSWORD': 'ad_min',
+        'USER': '******',
+        'PASSWORD': '******',
         'HOST': 'localhost',
         'PORT': '',
     }
